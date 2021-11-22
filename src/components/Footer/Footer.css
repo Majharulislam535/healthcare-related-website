@@ -1,0 +1,7 @@
+.social-icons i:hover {
+    color: white;
+}
+
+.social-icons i {
+    transition: all 400ms ease-in-out;
+}

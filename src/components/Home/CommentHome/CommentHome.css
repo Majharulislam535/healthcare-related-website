@@ -1,0 +1,9 @@
+@media only screen and (max-width:768px) {
+    .first {
+        justify-content: center;
+    }
+
+    .second {
+        justify-content: center;
+    }
+}

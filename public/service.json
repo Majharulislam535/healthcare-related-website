@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Dental Sugery",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "Oral surgeons, also known as maxillofacial surgeons, are medical specialists within the broader field of dentistry. ... They perform corrective and therapeutic procedures on the mouths and jaws of their patients and often work in conjunction with other dentists, surgeons, and orthodontists.",
+        "img": "https://i.ibb.co/dPc7kzh/images-q-tbn-ANd9-Gc-TWJ7-Vqty5-RORoo9v-RDb3i6ij-HG8-3-Cyb-WTRA-usqp-CAU.jpg",
+        "icon": "fas fa-tooth"
+    },
+    {
+        "id": 2,
+        "name": "Orthopaedic",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "Orthopedic surgeons are doctors who specialize in the musculoskeletal system - the bones, joints, ligaments, tendons, and muscles that are so essential to movement and everyday life. ... This lets them diagnose, treat and even prevent orthopedic problems with next-level precision.",
+        "img": "https://i.ibb.co/B2vxXZx/download.jpg",
+        "icon": "fas fa-bone"
+    },
+    {
+        "id": 3,
+        "name": "General Surgery",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "General surgeons are doctors who specialize in surgical procedures. Surgery is any procedure that alters body tissues to diagnose or treat a medical condition. A general surgeon is part of a surgical team that also includes an anesthesiologist, nurses, and surgical technicians.",
+        "img": "https://i.ibb.co/DYfcFgS/download-1.jpg",
+        "icon": "fas fa-user-nurse"
+    },
+    {
+        "id": 4,
+        "name": "Neurology",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord.",
+        "img": "https://i.ibb.co/6bmH1tf/download-2.jpg",
+        "icon": " fas fa-brain "
+    },
+    {
+        "id": 5,
+        "name": "Dermatology",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "Dermatology is the branch of medicine dealing with the skin. It is a speciality with both medical and surgical aspects. A dermatologist is a specialist medical doctor who manages diseases related to skin, hair, nails, and some cosmetic problems.",
+        "img": "https://i.ibb.co/6tt7Ghn/images.jpg",
+        "icon": "fas fa-pills"
+    },
+    {
+        "id": 6,
+        "name": "Laboratory Testing",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "The organisation and contents of laboratories are determined by the differing requirements of the specialists working within. A physics laboratory might contain a particle accelerator or vacuum chamber, while a metallurgy laboratory could have apparatus for casting or refining metals or for testing their strength. A chemist or biologist might use a wet laboratory, while a psychologist's laboratory might be a room with one-way mirrors and hidden cameras in which to observe behavior. In some laboratories, such as those commonly used by computer scientists, computers (sometimes supercomputers) are used for either simulations or the analysis of data. Scientists in other fields will use still other types of laboratories. Engineers use laboratories as well to design, build, and test technological devices.",
+        "img": "https://i.ibb.co/rfVMR7j/download-3.jpg",
+        "icon": "fas fa-flask"
+    },
+    {
+        "id": 7,
+        "name": "Women's Care",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "The information provided herein should not be used during any medical emergency or for the diagnosis or treatment of any medical condition. A licensed physician should be consulted for diagnosis and treatment of any and all medical conditions. Call 911 for all medical emergencies. Links to other sites are provided for information only -- they do not constitute endorsements of those other sites. Copyright 1997-2021, A.D.A.M., Inc. Duplication for commercial use must be authorized in writing by ADAM Health Solutions",
+        "img": "https://i.ibb.co/0Mq2xNw/images-1.jpg",
+        "icon": " fas fa-heartbeat "
+    },
+    {
+        "id": 8,
+        "name": "CT Scan Service",
+        "single_Description": "Forth unto night their foubehold night theiearth .",
+        "Description": "A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels and soft tissues inside your body. CT scan images provide more-detailed information than plain X-rays do",
+        "img": "https://i.ibb.co/vcKNB1c/download-4.jpg",
+        "icon": " fas fa-x-ray "
+    }
+]

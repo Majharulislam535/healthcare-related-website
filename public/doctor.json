@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dr.Millard",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/bKSwN2h/team1.png"
+    },
+    {
+        "id": 2,
+        "name": "Dr.Sergio",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/cXc7x63/team2.png"
+    },
+    {
+        "id": 3,
+        "name": "Dr.Casar",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/Tvmdctv/team3.png"
+    },
+    {
+        "id": 4,
+        "name": "Dr.Berenice",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/FhthCBX/team4.png"
+    },
+    {
+        "id": 5,
+        "name": "Dr.Lauree",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/zrGxjsp/team01.png"
+    },
+    {
+        "id": 6,
+        "name": "Dr.Valentia",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/NrXgQT5/team02.png"
+    },
+    {
+        "id": 7,
+        "name": "Dr.Marybeth",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/4mdtKXs/team03.png"
+    },
+    {
+        "id": 8,
+        "name": "Dr.Aidan",
+        "tag_name": "Restorative Dentist",
+        "img": "https://i.ibb.co/yh4yKry/team04.png"
+    }
+]

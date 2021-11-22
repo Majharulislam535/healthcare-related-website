@@ -1,0 +1,43 @@
+/* Media query breakpoint*/
+
+.active {
+    color: #1ac167;
+}
+
+.hamburger {
+    display: none;
+}
+
+@media only screen and (max-width: 854px) {
+    .nav-items {
+        padding       : 10px;
+        display       : flex;
+        align-items   : center;
+        flex-direction: column;
+        position      : absolute;
+        top           : 60px;
+        left          : 10%;
+        text-align    : center;
+        width         : 80%;
+        box-shadow    : rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        border-radius : 10px;
+        background    : rgb(246, 240, 240);
+    }
+
+    .nav-items-mobile {
+        display: none;
+    }
+
+    .nav-items a {
+        padding: 4px;
+
+    }
+
+    .hamburger {
+        display: block;
+    }
+}
+
+.login {
+    color: white;
+}

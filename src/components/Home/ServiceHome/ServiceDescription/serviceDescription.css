@@ -1,0 +1,9 @@
+.card:hover .icons {
+    background: #1ac167;
+    color     : white;
+
+}
+
+.icons {
+    transition: all 400ms ease-in-out;
+}

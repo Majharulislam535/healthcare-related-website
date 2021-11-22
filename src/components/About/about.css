@@ -1,0 +1,20 @@
+@media only screen and (max-width:768px) {
+    .about-title {
+        padding: 50px 0px;
+    }
+
+    .about-title h1 {
+        font-size: 40px;
+    }
+
+    .about-title p {
+        font-size: 18px;
+    }
+}
+
+.about-bg {
+    background-color: #000a6d;
+    padding         : 15px;
+    border-radius   : 10px;
+    color           : white;
+}

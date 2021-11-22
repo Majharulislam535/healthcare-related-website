@@ -1,0 +1,21 @@
+@media only screen and (max-width:768px) {
+
+    .quality-section {
+        flex-direction: column;
+    }
+
+    .quality-img {
+        width  : 100%;
+        padding: 20px;
+        order  : 2;
+    }
+
+    .quality-text {
+        width     : 100%;
+        text-align: center;
+    }
+
+    .quality-text h2 {
+        font-size: 40px;
+    }
+}
