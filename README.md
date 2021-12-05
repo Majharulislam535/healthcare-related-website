@@ -8,4 +8,3 @@
 2. tailwind css
 3. react-router-dom v6
 4. firebase 
-5. 
