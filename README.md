@@ -4,14 +4,14 @@
 
 ### live demo link: https://physicmed-5dad8.web.app/
 
-### Features
- 1. This project is healthcare related website
- 2. Fully responsive.. multifle devise
- 3. routeing system
+#### Features
+ 1. This project is a healthcare-related website
+ 2. Fully responsive.. multiple devices
+ 3. routing system
  4. authentication system
 
-### Technology
+ #### Technology
 1. React js
-2. tailwind css
+2. tailwind CSS
 3. react-router-dom v6
 4. firebase 
